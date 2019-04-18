@@ -5,7 +5,8 @@ Studying group dynamics requires fine-grained spatial and temporal understanding
 
 For more details about the dataset: https://sites.google.com/view/ugirpi/
 
-Link to download dataset from Zenodo: 10.5281/zenodo.2644617
+Link to download dataset from Zenodo: https://zenodo.org/record/2644617#.XLiuYuhKiNc
+Dataset DOI: 10.5281/zenodo.2644617
 
 Please cite the following paper when using this dataset for your research:
 
